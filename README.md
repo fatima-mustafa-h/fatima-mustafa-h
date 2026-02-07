@@ -23,11 +23,11 @@ Building strong fundamentals before moving into larger systems.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fatima-mustafa-h-5a695a31a">
-    <img src="./LinkedIn.png" alt="LinkedIn" width="40">
+    <img src="./LinkedIn.png" alt="LinkedIn" width="35">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:fatima.mustafa.h67@gmail.com">
-    <img src="./Gmail.png" alt="Gmail" width="40">
+    <img src="./Gmail.png" alt="Gmail" width="45">
   </a>
 </p>
 
